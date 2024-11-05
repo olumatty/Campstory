@@ -42,7 +42,7 @@ const Guide = () => {
 
                     <div className='flex w-full flex-col'>
                         <p className='regular-16 text-gray-20'>Start track</p>
-                        <h4 className='bold-18 mt-2 whitespace-nowrap'>Current Location</h4>
+                        <h4 className='bold-18 mt-2 whitespace-nowrap text-black'>Current Location</h4>
                     </div>
                 </div>
             </div>
