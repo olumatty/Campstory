@@ -2,7 +2,6 @@
 import { useEffect, useState } from "react";
 import Camp from "@/Components/Camp";
 import Features from "@/Components/Features";
-import Footer from "@/Components/Footer";
 import GetApps from "@/Components/GetApps";
 import Guide from "@/Components/Guide";
 import Hero from "@/Components/Hero";
